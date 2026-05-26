@@ -585,7 +585,7 @@ select:focus {
     /* タイトル文字を少し小さく */
     header h1 {
         font-size: 1.5rem;
-        /* padding: 15px 10px; */
+        padding: 15px 10px;
     }
 
     h2 {
@@ -677,9 +677,9 @@ select:focus {
         /* チーム名の文字サイズを調整 */
     }
 
-    .score-input-area {
+    /* .score-input-area {
         padding: 10px;
-    }
+    } */
 }
 
 /* スマホ限定の改行コード用（デフォルトは非表示、スマホ画面のみ有効化） */
